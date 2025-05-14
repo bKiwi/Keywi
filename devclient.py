@@ -7,7 +7,7 @@ import struct
 import sys
 import shutil
 
-server_ip = "192.168.1.11"  # Replace with your server's IP
+server_ip = "192.168.10.197"  # Replace with your server's IP
 server_port = 10000         # Replace with your server's port
 
 def run_command(command):
